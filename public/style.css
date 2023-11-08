@@ -1,0 +1,20 @@
+label, a,h1, option{
+    text-transform:capitalize;
+}
+.select2-container--default .select2-selection--single {
+        background-color: #fff;
+        border: 1px solid #aaaaaa5c;
+        border-radius: 4px;
+        height: 40px;
+    }
+
+    .select2-container--default .select2-selection--single .select2-selection__rendered {
+        color: #0e0c0c7d;
+        /* line-hergb(240, 12, 12): 28px; */
+    }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
